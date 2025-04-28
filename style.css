@@ -46,7 +46,7 @@ html{
 }
 
 .btn:hover{
-    background: #C80205;
+    background: #734696;
     color: white;
 }
 
@@ -81,8 +81,17 @@ nav{
 .nav-name{
     font-size: 30px;
     font-weight: 600;
-    color: #C80205;
+    color: #734696;
 }
+
+.nav-toggle {
+    font-size: 24px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #333; /* couleur du bouton */
+}
+
 
 
 
@@ -105,7 +114,7 @@ nav{
     margin-inline: 20px;
 }
 .nav-link:hover{  
-    color: #C80205;
+    color: #734696;
 }
 .nav-menu-btn{
     display: none;
@@ -157,7 +166,7 @@ nav{
 .typedText{
     text-transform: capitalize;
 	font-size: 40px;
-    color: #C80205;
+    color: #734696;
 
 }
 .featured-text-info{
@@ -170,7 +179,7 @@ nav{
     gap: 20px;
 }
 .red-btn{
-    background: #C80205;
+    background: #734696;
     color: white;
 }
 .red-btn:hover{
@@ -193,7 +202,7 @@ nav{
 	transition: 0.3s ease, transform 0.3s ease;
 }
 .icon:hover{
-    background: #C80205;
+    background: #734696;
 	transform: translateY(-10px);
 }
 
@@ -305,7 +314,7 @@ h3{
 }
 .project-box>i{
     font-size: 50px;
-    color: #C80205;
+    color: #734696;
     margin-bottom: 25px;
 }
 .project-box label{
@@ -316,7 +325,7 @@ h3{
     content: "";
     position: absolute;
     bottom: -100%;
-    background: #C80205;
+    background: #734696;
     width: 100%;
     height: 100%;
     transition: .4s;
@@ -343,7 +352,7 @@ h3{
     padding: 20px 30px;
     width: 100%;
     height: 315px;
-    background: #C80205;
+    background: #734696;
     border-radius: 10px;
     box-shadow: 1px 8px 10px 2px #c0c4c4;
     overflow: hidden;
@@ -407,7 +416,7 @@ textarea{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #C80205;
+    background: #734696;
     color: white;
 }
 
